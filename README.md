@@ -2,7 +2,7 @@
 
 An example of 'clone site' based on mockup created by mmcschool
 
-**Live:** []()
+**Live:** [https://alex-miarowski.github.io/site-clone-forest-website/dist/](https://alex-miarowski.github.io/site-clone-forest-website/dist/)
 
 ___
 
